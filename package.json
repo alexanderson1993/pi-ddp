@@ -1,0 +1,11 @@
+{
+  "name": "pi-ddp",
+  "version": "1.0.0",
+  "description": "A connector between raspberry pi and meteor using node and ddp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alex Anderson",
+  "license": "MIT"
+}
